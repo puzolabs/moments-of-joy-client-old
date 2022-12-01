@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">moments</string>
+  <string name="facebook_app_id">288439236373434</string>
+  <string name="fb_login_protocol_scheme">fb288439236373434</string>
+</resources>

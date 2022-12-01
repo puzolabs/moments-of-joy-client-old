@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "716512417434",
+    "firebase_url": "https://moments-of-joy-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "moments-of-joy",
+    "storage_bucket": "moments-of-joy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716512417434:android:5afcdebcc52374ba9d7123",
+        "android_client_info": {
+          "package_name": "com.puzolabs.momentsofjoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716512417434-efhqhl3lqtvb5a6lmk2q2n1tch74hmq8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5tewXBK5hFcbnW6f7DsXuopYfebdn2WM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716512417434-efhqhl3lqtvb5a6lmk2q2n1tch74hmq8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

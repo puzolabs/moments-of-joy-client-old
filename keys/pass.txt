@@ -1,0 +1,1 @@
+the keystore password used to generate the hash for Facebook Development Key:  lavi
